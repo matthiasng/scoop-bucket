@@ -1,0 +1,22 @@
+{
+    "version": "0.1.1",
+    "architecture": {
+        "32bit": {
+            "url": "https://github.com/matthiasng/service-shark/releases/download/v0.1.1/service-shark-Windows-i386-v0.1.1.zip",
+            "bin": [
+                "service-shark.exe.exe"
+            ],
+            "hash": "0f786f42dc50610caaa6d0ff9556960665c2d6a2b7f55c084d0162981f2e305c"
+        },
+        "64bit": {
+            "url": "https://github.com/matthiasng/service-shark/releases/download/v0.1.1/service-shark-Windows-x86_64-v0.1.1.zip",
+            "bin": [
+                "service-shark.exe.exe"
+            ],
+            "hash": "1165ba573765385b73ba3aa8d67ad29b345083a35542bf448b87dc246d42bc58"
+        }
+    },
+    "homepage": "https://github.com/matthiasng/service-shark",
+    "license": "MIT",
+    "description": "Host any executable or script as a Windows service"
+}
