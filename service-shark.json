@@ -6,14 +6,14 @@
             "bin": [
                 "service-shark.exe.exe"
             ],
-            "hash": "a9c8954f17ff3a5fce8af46c90ae0643b850df73012e53e13a13b1093a801cf3"
+            "hash": "58868a9469de3b73b8968b665a6b50acb74cbafa3bb2d6083feb8bf7d890beb6"
         },
         "64bit": {
             "url": "https://github.com/matthiasng/service-shark/releases/download/v1.0.0/service-shark-Windows-x86_64-v1.0.0.zip",
             "bin": [
                 "service-shark.exe.exe"
             ],
-            "hash": "cf330e4e15596dcf0c492dbd3762f798e2bb888a0a310f76c3fe6932d63e3698"
+            "hash": "ff843fb7033fe93c373868a7bf81095f3f9212ee489250944d299ad646680ff3"
         }
     },
     "homepage": "https://github.com/matthiasng/service-shark",
